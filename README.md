@@ -1,6 +1,5 @@
-### Welcome to my github repository, I'm Clarence Delmacio Manuel (@cs-clarence)
+### 👋 Welcome to my github repository, I'm Clarence Delmacio Manuel (@cs-clarence)
 - 👀 I’m interested in programming, videos games, anime, and music.
-- 💞️ I’m looking to collaborate on ...
 
 ### 📫 How to reach me
 
