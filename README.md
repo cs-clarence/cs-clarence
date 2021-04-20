@@ -1,7 +1,7 @@
 # [cs-clarence](https://github.com/cs-clarence/cs-clarence)
 ## 👋 Welcome to my github repository, I'm Clarence Manuel (@cs-clarence)
 - 👀 I’m interested in programming, videos games, anime, and music.
-- I'm currently as student taking a Computer Science course.
+- I'm currently as Computer Science student.
 - I create personal projects on my free time.
 
 ## 📫 How to reach me
