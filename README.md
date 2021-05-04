@@ -9,7 +9,7 @@
 - [Facebook](https://www.facebook.com/rencedm112)
 - [Instagram](https://www.instagram.com/rencedm112)
 - [Twitter](https://www.twitter.com/rencedm112)
-- [LinkedIn](https://www.linkedin.com/in/rencedm112)
+- [E-Mail](mailto:rencedm112@gmail.com)
 <!---
 cs-clarence/cs-clarence is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
