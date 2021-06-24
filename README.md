@@ -1,9 +1,9 @@
 # [cs-clarence](https://cdmnl.netlify.app)
 ## 👋 Welcome to my github repository, I'm Clarence Manuel (@cs-clarence)
-- I’m interested in programming, video game, anime, and music.
-- I'm currently a Computer Science student.
+- I enjoy programming, drawing, videogames, anime, and music.
+- Currently a Computer Science student.
 - I create personal projects on my free time.
-- I'm always eager to learn the latest technologies in the software industry.
+- Always eager to learn about new stuff.
 
 ## 📫 How to reach me
 - [Facebook](https://www.facebook.com/rencedm112)
