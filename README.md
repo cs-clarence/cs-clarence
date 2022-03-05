@@ -1,5 +1,4 @@
-# [cs-clarence](https://clarencemanuel.netlify.app)
-## 👋 Welcome to my github repository, I'm Clarence Manuel (@cs-clarence)
+## 👋 Welcome to my github repository, I'm Clarence Manuel
 - I enjoy programming, drawing, videogames, anime, and music.
 - Currently a BS in Information Technology student.
 - I create personal projects on my free time.
