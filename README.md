@@ -5,9 +5,6 @@
 - Always eager to learn about new stuff.
 
 ## 📫 How to reach me
-- [Facebook](https://www.facebook.com/rencedm112)
-- [Instagram](https://www.instagram.com/rencedm112)
-- [Twitter](https://www.twitter.com/rencedm112)
 - [EMail](mailto:rencedm112@gmail.com)
 <!---
 cs-clarence/cs-clarence is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
